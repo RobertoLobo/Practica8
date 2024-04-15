@@ -1,0 +1,91 @@
+{
+	"BUILD_DIR" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug/Practica8_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/Practica8",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/Practica8",
+	"DEP_FILE" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug/Practica8_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "Practica8_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/Practica8/Clases.h",
+			"MU",
+			"EWIEGA46WW/moc_Clases.cpp"
+		],
+		[
+			"C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/Practica8/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug/Practica8_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug/Practica8_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Qt/6.5.4/msvc2019_64/include/QtCore",
+		"C:/Qt/6.5.4/msvc2019_64/include",
+		"C:/Qt/6.5.4/msvc2019_64/mkspecs/win32-msvc",
+		"C:/Qt/6.5.4/msvc2019_64/include/QtWidgets",
+		"C:/Qt/6.5.4/msvc2019_64/include/QtGui"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/Practica8_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.5.4/msvc2019_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.5.4/msvc2019_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 5,
+	"SETTINGS_FILE" : "C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/Practica8_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/Practica8/main.cpp",
+			"MU"
+		],
+		[
+			"C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/Practica8/mainwindow.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

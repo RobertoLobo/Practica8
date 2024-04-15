@@ -1,0 +1,11 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/Roberto Cruz/Documents/Escolar/2024A/SSP Algoritmia/Practicas/build-Practica8-Desktop_x86_windows_msvc2019_pe_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MICROS~3/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_24b32 && [1/2] Building CXX object CMakeFiles\cmTC_24b32.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_24b32.dir/CheckIncludeFile.cxx.obj 
+C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\HostX64\x64\cl.exe  /nologo /TP   -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\cmTC_24b32.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_24b32.dir\ /FS -c CheckIncludeFile.cxx
+CheckIncludeFile.cxx(1): fatal error C1083: No se puede abrir el archivo incluir: 'pthread.h': No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
